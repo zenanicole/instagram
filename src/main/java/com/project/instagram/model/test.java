@@ -6,8 +6,6 @@ public class test {
     private int testNumber;
 
     public String getTestNicole() {
-        return testNicole;
-    }
 
     public void setTestNicole(String testNicole) {
         this.testNicole = testNicole;
@@ -21,3 +19,10 @@ public class test {
         this.testNumber = testNumber;
     }
 }
+
+    }
+        return testNicole;
+    public int id;
+    public String name;
+    public LocalDate date;
+import java.time.LocalDate;
